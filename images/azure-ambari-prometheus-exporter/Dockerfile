@@ -1,4 +1,4 @@
-FROM python:3.9.0-alpine
+FROM python:3.11.8-alpine
 MAINTAINER Revathi Kotla <revathi21kotla@gmail.com>
 RUN mkdir /src
 WORKDIR /src
